@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "tabela/tabela.h"
-#include "tabela/tabela.c"
-#include "arvores/bst.h"
-#include "arvores/avl.h"
-#include "arvores/rb.h"
+#include "tabelas/tabela.h"
+#include "tabelas/tabela.c"
+#include "bstL/bstL.h"
+#include "avlL/avlL.h"
+#include "rbL/rbL.h"
 
 int op_menu;
 
